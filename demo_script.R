@@ -5,8 +5,6 @@ y <- rnorm(500)
 
 # Important feature
 
-<<<<<<< HEAD
 # New feature
-=======
-# An alternative
->>>>>>> alternative-develop
+
+#Some more work for github
